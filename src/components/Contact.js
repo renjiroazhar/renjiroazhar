@@ -7,23 +7,26 @@ class Contact extends Component {
     render() { 
         return (  <div>
         <h1>
-                <Fade bottom cascade> Contact.</Fade>
+                <Fade bottom cascade>Contact.</Fade>
         </h1>
         <Fade bottom>
         <div className='contact-content'>
                 <h1>
-                Let’s create your next<br></br>
-                <span className='amazing-color'>experience together</span></h1>
+                    Let’s make it<br></br>
+                    <span className='amazing-color'>happen together</span>
+                </h1>
                     <a href={`mailto:${data.contactEmail}`} className='email'>{data.contactEmail}</a>
                 <ul>
                     {data.social.map((link,index)=>(
-                        <li key={index}><a target='_blank' rel="noopener noreferrer" href={link.url}>{link.name}</a></li>
+                        <li key={index}>
+                            <a target='_blank' rel="noopener noreferrer" href={link.url}>
+                                <img src={link.image} alt={link.name} style={{margin: '1em 0 2em 0'}}></img>
+                            </a>
+                        </li>
                     ))}   
                 </ul>
         </div>
         </Fade>
-
-            <span className='footer'>Made With ❤ by <a href="http://chetanverma.com/">Chetan Verma</a></span>
         </div>);
     }
 }
