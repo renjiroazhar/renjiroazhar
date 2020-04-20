@@ -77,12 +77,12 @@ export default
             {   
                 name: 'Github',
                 image: github,
-                url: 'https://github.com/renjiroazhar'
+                url: 'https://github.com/renjiroazharp'
             },
             {
                 name: 'LinkedIn',
                 image: linkedin,
-                url: 'https://www.linkedin.com/in/renjiroazharpramono/'
+                url: 'https://www.linkedin.com/in/renjiroazharp/'
             },
             {
                 name: 'Instagram',
