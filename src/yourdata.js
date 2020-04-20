@@ -12,7 +12,7 @@ export default
     {
         //(Please Do Not Remove The comma(,) after every variable)
         //Change The Website Template
-        name :'renjiroazharp.',
+        name :'renjiroazharp',
         headerTagline: [//Line 1 For Header
                         'Hi 👋 Here you are! I am Renji.',
                         //Line 2 For Header
@@ -50,7 +50,7 @@ export default
                 title: 'Naget ID',
                 service: '| UI/UX & Web App Development',
                 imageSrc: portofolio4,
-                url: 'https://naget.netlify.com/'
+                url: 'https://naget.netlify.app/'
             },
             {
                 id: 4,//DO NOT CHANGE THIS (Please)😅
