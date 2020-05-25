@@ -12,7 +12,7 @@ export default
     {
         //(Please Do Not Remove The comma(,) after every variable)
         //Change The Website Template
-        name :'renjiroazharp',
+        name :'renjiroazhar',
         headerTagline: [//Line 1 For Header
                         'Hi 👋 Here you are! I am Renji.',
                         //Line 2 For Header
@@ -23,7 +23,7 @@ export default
         //Contact Email
         contactEmail:'renjiroazhar@gmail.com',
         // Add Your About Text Here
-        abouttext: "I’m Renjiro Azhar, a full-stack web developer & UI designer working in Semarang, Indonesia. I create websites, brand identities, and everything in-between. I’m passionate about building & designing delightful experiences with the combination of business, marketing and UI/UX design to make customers and users satisfied when they’re using products and services online.",
+        abouttext: "I’m Renjiro Azhar, a web developer & UI designer working in Semarang, Indonesia. I create websites, brand identities, and everything in-between. I’m passionate about building & designing delightful experiences with the combination of business, marketing and UI/UX design to make customers and users satisfied when they’re using products and services online.",
         aboutImage: portofolio1,
        //Change This To Hide The Image of About Section (True Or False)
        ShowAboutImage:true,//true or false (Change Here)
