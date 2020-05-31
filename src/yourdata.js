@@ -16,7 +16,7 @@ export default
         headerTagline: [//Line 1 For Header
                         'Hi 👋 Here you are! I am Renji.',
                         //Line 2 For Header
-                        'Freelance Web Developer',
+                        'Web Developer',
                         //Line 3 For Header
                         'from Indonesia'
     ],
