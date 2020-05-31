@@ -14,9 +14,9 @@ export default
         //Change The Website Template
         name :'renjiroazhar',
         headerTagline: [//Line 1 For Header
-                        'Hi 👋 Here you are! I am Renji.',
+                        'Hi 👋 Here you are!',
                         //Line 2 For Header
-                        'Web Developer',
+                        'Iam Renji. Web Developer',
                         //Line 3 For Header
                         'from Indonesia'
     ],
