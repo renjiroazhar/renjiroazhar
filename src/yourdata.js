@@ -16,14 +16,14 @@ export default
         headerTagline: [//Line 1 For Header
                         'Hi 👋 Here you are!',
                         //Line 2 For Header
-                        'Iam Renji. Web Developer',
+                        'Iam Renji. Junior Web Developer',
                         //Line 3 For Header
                         'from Indonesia'
     ],
         //Contact Email
         contactEmail:'renjiroazhar@gmail.com',
         // Add Your About Text Here
-        abouttext: "I’m Renjiro Azhar, a web developer & UI designer working in Semarang, Indonesia. I create websites, brand identities, and everything in-between. I’m passionate about building & designing delightful experiences with the combination of business, marketing and UI/UX design to make customers and users satisfied when they’re using products and services online.",
+        abouttext: "I’m Renjiro Azhar, a junior web developer working in Semarang, Indonesia. I create websites and everything in-between. I’m passionate about building & designing delightful experiences to make customers and users satisfied when they’re using products and services online.",
         aboutImage: portofolio1,
        //Change This To Hide The Image of About Section (True Or False)
        ShowAboutImage:true,//true or false (Change Here)
@@ -77,22 +77,22 @@ export default
             {   
                 name: 'Github',
                 image: github,
-                url: 'https://github.com/renjiroazharp'
+                url: 'https://github.com/renjiroazhar'
             },
             {
                 name: 'LinkedIn',
                 image: linkedin,
-                url: 'https://www.linkedin.com/in/renjiroazharp/'
+                url: 'https://www.linkedin.com/in/renjiroazhar'
             },
             {
                 name: 'Instagram',
                 image: instagram,
-                url: 'https://www.instagram.com/renjiroazharp'
+                url: 'https://www.instagram.com/renjiroazhar'
             },
             {   
                 name: 'Telegram',
                 image: telegram,
-                url: 'https://t.me/renjiroazharp'
+                url: 'https://t.me/renjiroazhar'
             }
         ]
     }
