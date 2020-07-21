@@ -16,27 +16,27 @@ export default
         headerTagline: [//Line 1 For Header
                         'Hi 👋 Here you are!',
                         //Line 2 For Header
-                        'Iam Renji. Junior Web Developer',
+                        "I'm Renji. Junior Web Developer",
                         //Line 3 For Header
                         'from Indonesia'
     ],
-        //Contact Email
-        contactEmail:'renjiroazhar@gmail.com',
-        // Add Your About Text Here
-        abouttext: "I’m Renjiro Azhar, a junior web developer working in Semarang, Indonesia. I create websites and everything in-between. I’m passionate about building & designing delightful experiences to make customers and users satisfied when they’re using products and services online.",
-        aboutImage: portofolio1,
+       //Contact Email
+       contactEmail:'renjiroazhar@gmail.com',
+       // Add Your About Text Here
+       abouttext: "I’m Renjiro Azhar, a junior web developer working in Semarang, Indonesia. I create websites and everything in-between. I’m passionate about building & designing delightful experiences to make customers and users satisfied when they’re using products and services online.",
+       aboutImage: portofolio1,
        //Change This To Hide The Image of About Section (True Or False)
        ShowAboutImage:true,//true or false (Change Here)
        // Change Projects Here 
        projects:[
            {
-            id: 1,//DO NOT CHANGE THIS (Please)😅
-            title:'Gading Trans', //Project Title - Add Your Project Title Here
-             service:'| Website Development', // Add Your Service Type Here
-            //Project Image - Add Your Project Image Here
-             imageSrc: portofolio2,
-             //Project URL - Add Your Project Url Here
-             url:'https://www.gadingtrans.id/'
+                id: 1,//DO NOT CHANGE THIS (Please)😅
+                title:'Gading Trans', //Project Title - Add Your Project Title Here
+                service:'| Website Development', // Add Your Service Type Here
+                //Project Image - Add Your Project Image Here
+                imageSrc: portofolio2,
+                //Project URL - Add Your Project Url Here
+                url:'https://www.gadingtrans.id/'
             },
             {
                 id: 2,//DO NOT CHANGE THIS (Please)😅
