@@ -6,7 +6,6 @@ import portofolio5 from './res/portofolio-5.png';
 import github from './res/github.png';
 import linkedin from './res/linkedin.png';
 import instagram from './res/instagram.png';
-import telegram from './res/telegram.png';
 
 export default
     {
@@ -88,11 +87,6 @@ export default
                 name: 'Instagram',
                 image: instagram,
                 url: 'https://www.instagram.com/renjiroazhar'
-            },
-            {   
-                name: 'Telegram',
-                image: telegram,
-                url: 'https://t.me/renjiroazhar'
             }
         ]
     }
