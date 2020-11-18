@@ -100,7 +100,7 @@ li .link:hover{
   font-size: 3em;
   text-align: left;
   top:4em;
-  margin-left: 1em;
+  margin-left: 0;
 }
 .about{
   display: flex;
@@ -220,12 +220,12 @@ nav{
 .header-title{
   font-size: 3em;
   text-align: left;
-  top:1em;
-  left:1em;
+  top: 1em;
+  left: 0;
 }
 .about{position: relative;
       display: flex;
-      top:-30em;
+      top: -30em;
 }
 .about img{
   display: none
@@ -311,12 +311,12 @@ nav{
 .header-title{
   font-size: 3.6em;
   text-align: left;
-  top:1em;
-  left:1em;
+  top: 1em;
+  left: 0;
 }
 .about{position: relative;
       display: flex;
-      top:-10em;
+      top: -10em;
 }
 .about img{
   display: none
@@ -408,12 +408,12 @@ nav li{
 }
 .header-title{
   font-size: 5em;
-  top:1em;
-  left:1em;
+  top: 1em;
+  left: 0;
 }
 .about{position: relative;
       display: flex;
-      top:-20em;
+      top: -20em;
 }
 .about-content{
   left:10em;
