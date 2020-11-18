@@ -20,7 +20,7 @@ class Contact extends Component {
                     {data.social.map((link,index)=>(
                         <li key={index}>
                             <a target='_blank' rel="noopener noreferrer" href={link.url}>
-                                <img src={link.image} alt={link.name} style={{margin: '1em 0 2em 0'}}></img>
+                                <img src={link.image} alt={link.name} style={{margin: '1em 0 1em 0'}}></img>
                             </a>
                         </li>
                     ))}   
