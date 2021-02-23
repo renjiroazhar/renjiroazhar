@@ -117,11 +117,11 @@ li .link:hover{
 }
 .about-content p{
   font-size: 1.3em;
-  text-align: left;
+  text-align: justify;
   width: 25em;
 }
 .about img{
-  margin-left: 5em;
+  margin-left: 17em;
 }
 .work{
   position: relative;
