@@ -15,14 +15,14 @@ export default
         headerTagline: [//Line 1 For Header
                         'Hi 👋 Here you are!',
                         //Line 2 For Header
-                        "I'm Renji. Junior Web Dev",
+                        "I'm Renji. a College Student",
                         //Line 3 For Header
                         'from Indonesia'
     ],
        //Contact Email
        contactEmail:'renjiroazhar@gmail.com',
        // Add Your About Text Here
-       abouttext: "I’m Renjiro Azhar, a junior web developer working in Semarang, Indonesia. I create websites and everything in-between. I’m passionate about building & designing delightful experiences to make customers and users satisfied when they’re using products and services online.",
+       abouttext: "I'm Renji, a college student at Dian Nuswantoro University. Majoring Bachelor of Informatics Engineering. I have passion on programming since High School. Mainly i learn about frontend web development. I also have experience as an intern in a software company for about 6 months.",
        aboutImage: portofolio1,
        //Change This To Hide The Image of About Section (True Or False)
        ShowAboutImage:true,//true or false (Change Here)
